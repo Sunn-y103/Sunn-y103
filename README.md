@@ -1,4 +1,4 @@
-<h1 align="left">💫 About Me :</h1>
+<h1 align="left">Hi, I'm Swarnadeep 👋</h1>
 
 - ✨ I’m passionate about **learning and exploring the world of Machine Learning and enjoy building applications that solve real-world problems.**
 
@@ -6,7 +6,7 @@
 <br><br>
 
 
-<h3 align="left">Social:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/su_nysingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="su_nysingh" height="30" width="40" /></a>
 <a href="https://instagram.com/_sunnysingh.19_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sunnysingh.19_" height="30" width="40" /></a>
