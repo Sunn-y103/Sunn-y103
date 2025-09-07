@@ -2,7 +2,7 @@
 
 - ✨ I’m passionate about learning and exploring Machine Learning and enjoy building applications that solve real-world problems.
 
-- 🌱 I’m currently learning **ML Frameworks and React-Native**
+- 🌱 I’m currently learning **NLP (Natural Language Processing) and React-Native**
 <br><br>
 
 
