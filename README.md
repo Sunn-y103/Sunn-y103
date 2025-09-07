@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Swarnadeep 👋</h1>
 
-- ✨ I’m passionate about **learning and exploring the world of Machine Learning and enjoy building applications that solve real-world problems.**
+- ✨ I’m passionate about learning and exploring Machine Learning and enjoy building applications that solve real-world problems.
 
 - 🌱 I’m currently learning **ML Frameworks and React-Native**
 <br><br>
