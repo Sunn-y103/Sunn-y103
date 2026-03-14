@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/sunn-y103">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Machine+Learning+Enthusiast;Building+Real-World+Applications;Data+Engineering+%26+NLP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Machine+Learning+Enthusiast;Building+Real-World+Applications;" alt="Typing SVG" />
   </a>
 </p>
 
